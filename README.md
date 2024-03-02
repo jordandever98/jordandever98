@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Analytics, AI, and Automation
 - 💞️ I’m looking to collaborate on projects at a future job
 - 📫 How to reach me: jordandever98@gmail.com
+- ✨ Feel free to visit my R Pubs as well: https://rpubs.com/JordanDever
 
 <!---
 jordandever98/jordandever98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
