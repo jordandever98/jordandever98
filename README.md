@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jordandever98
-- 👀 I’m interested in building RPA projects
-- 🌱 I’m currently learning how to master UiPath and VB.NET
+- 👀 I’m interested in Data Analytics, AI, and Automation
 - 💞️ I’m looking to collaborate on projects at a future job
 - 📫 How to reach me: jordandever98@gmail.com
 
